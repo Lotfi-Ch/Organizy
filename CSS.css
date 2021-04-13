@@ -1,0 +1,424 @@
+html{
+ background: url(https://www.xtrafondos.com/wallpapers/ubuntu-linux-minimalism-3445.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+  font-size: 50px ;
+  color: #FFC0CB;
+  font-family: cursive;
+  text-align: center;
+  margin: auto;
+  width: 800px;	
+}
+h2{
+  font-size: 20px ;
+  color: #FFC0CB;
+  font-family: cursive;
+  text-align: center;
+  margin: auto;
+  width: 500px;	
+  animation-name: example;
+  animation-duration: 3s;
+  animation-iteration-count: 100;
+}
+#btn1{
+	 font-family: cursive;
+	height: 5%;
+	width:100px;
+	width: 150px;
+	color : #800080;
+	background-color: transparent;
+	text-align: center;
+	margin: 0;
+  position: absolute;
+  top: 80%;
+  left: 46%;
+  transform: translateY(-50%);
+  color: #9400D3;
+   transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+  font-weight: bold;	
+}
+#btn{
+	 font-family: cursive;
+	height: 5%;
+	width: 100px;
+	color : #800080;
+	background-color: transparent;
+	text-align: center;
+	margin: 0;
+  position: absolute;
+  top: 90%;
+  left: 70%;
+  transform: translateY(-50%);
+  color: #9400D3;
+   transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+  font-weight: bold;
+}
+#input{
+background-color: #FFC0CB;
+	 font-family: cursive;
+	height: 20px;
+	width: 250px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 32%;
+   transform: translateY(-50%);
+   border: 2px solid black;
+  border-radius: 5px;
+}
+#input1{
+	color: white;
+		background-color: transparent;
+	 font-family: cursive;
+	height: 20px;
+	width: 250px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 32%;
+   transform: translateY(-600%);
+   border: 2px solid black;
+  border-radius: 5px;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+#input2{
+	color: white;
+	background-color: transparent;
+	 font-family: cursive;
+	height: 20px;
+	width: 250px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 32%;
+   transform: translateY(-800%);
+   border: 2px solid black;
+  border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+#input3{
+	color: white;
+	background-color: transparent;
+	 font-family: cursive;
+	height: 20px;
+	width: 250px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 32%;
+   transform: translateY(-1000%);
+   border: 2px solid black;
+  border-radius: 5px;
+      transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+#input4{
+	color: white;
+	background-color: transparent;
+	 font-family: cursive;
+	height: 20px;
+	width: 250px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 32%;
+   transform: translateY(-1200%);
+     border: 2px solid black;
+  border-radius: 5px;
+      transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+#input5{
+	color: white;
+	background-color: transparent;
+	 font-family: cursive;
+	height: 20px;
+	width: 250px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 32%;
+   transform: translateY(-1400%);
+     border: 2px solid black;
+  border-radius: 5px;
+      transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+#date{
+	background-color: #FFC0CB;
+	 font-family: cursive;
+	height: 20px;
+	width: 130px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 55%;
+   transform: translateY(-50%);
+   border: 2px solid black;
+  border-radius: 5px;
+}
+#date1{
+	color: white;
+	background-color: transparent;
+	 font-family: cursive;
+	height: 20px;
+	width: 100px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 55%;
+   transform: translateY(-600%);
+   border: 2px solid black;
+  border-radius: 5px;
+      transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+#date2{
+	color: white;
+	background-color: transparent;
+	 font-family: cursive;
+	height: 20px;
+	width: 100px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 55%;
+   transform: translateY(-800%);
+   border: 2px solid black;
+  border-radius: 5px;
+      transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+#date3{
+	color: white;
+	background-color: transparent;
+	 font-family: cursive;
+	height: 20px;
+	width: 100px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 55%;
+   transform: translateY(-1000%);
+   border: 2px solid black;
+  border-radius: 5px;
+      transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+#date4{
+	color: white;
+	background-color: transparent;
+	 font-family: cursive;
+	height: 20px;
+	width: 100px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 55%;
+   transform: translateY(-1200%);
+     border: 2px solid black;
+  border-radius: 5px;
+      transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+#date5{
+	color: white;
+	background-color: transparent;
+	 font-family: cursive;
+	height: 20px;
+	width: 100px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 55%;
+   transform: translateY(-1400%);
+     border: 2px solid black;
+  border-radius: 5px;
+      transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+h3{
+	 font-family: cursive;
+	color: #FFC0CB;
+	font-size: 20px;
+	height: 20px;
+	width: 250px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 38%;
+	transform: translateY(-2100%);
+}
+h4{
+	 font-family: cursive;
+	color: #FFC0CB;
+	font-size: 20px;
+		height: 20px;
+	width: 250px;
+	text-align: left;
+	position: absolute;
+	 top: 90%;
+  left: 57%;
+	transform: translateY(-2125%);
+}
+
+h5{
+	  font-size: 30px ;
+  color: #FFC0CB;
+  font-family: cursive;
+  text-align: center;
+  margin: auto;
+  width: 500px;	
+  animation-name: example;
+  animation-duration: 3s;
+  animation-iteration-count: 100;
+}
+#btn2{
+		 font-family: cursive;
+	height: 5%;
+	width:100px;
+	width: 150px;
+	color : white;
+	background-color: transparent;
+	text-align: center;
+	margin: 0;
+  position: absolute;
+  top: 3%;
+  right: 88%;
+  transform: translateY(-30%);
+   transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+  font-weight: bold;
+
+}
+#footer1{
+		transform: translateY(200%);
+ font-size: 20px ;
+  color: #FFC0CB;
+  height: 150px;
+  font-family: cursive;
+  text-align: center;
+  margin: auto;
+  width: 100%;	
+ background-color: #FFC0CB;
+	color : gray;
+
+}
+#footer{
+		transform: translateY(350%);
+ font-size: 20px ;
+  color: #FFC0CB;
+  height: 150px;
+  font-family: cursive;
+  text-align: center;
+  margin: auto;
+  width: 100%;	
+ background-color: #FFC0CB;
+	color : gray;
+}
+
+#table {
+
+	background-color: transparent;
+     transform: translateY(20%);
+    text-align:center;
+    font-family: cursive;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+td, th, tr, tbody {
+	  color: #FFC0CB;
+	
+		background-color: transparent;
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+@keyframes example {
+  from {color: #FFC0CB;}
+  to {color: purple;}
+}
+
+.check{
+	background-color: transparent;
+	margin-right: 0%;
+ color: green;
+   transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+
+}
+.NO{
+		background-color: transparent;
+	margin-right: 0%;
+ color: red;
+    transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+}
+#Reset{
+	width: 200px;
+	color: white;
+	font-family: cursive;
+	color: white;
+	background-color: transparent;
+  position: absolute;
+  top: 80%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+      transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+  font-weight: bold;
+}
+#ResetAll{
+	width: 200px;
+	color: white;
+	font-family: cursive;
+	color: white;
+	background-color: transparent;
+  position: absolute;
+  top: 80%;
+  left: 33%;
+  transform: translate(-50%, -50%);
+      transition: all 0.2s ease-in-out;
+  box-shadow: 0 5px 15px;
+  font-weight: bold;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+#follow1{
+	font-family: cursive;
+	font-size: 15px;
+}
+
